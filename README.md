@@ -23,9 +23,11 @@ A simple flutter-based application that connects via Bluetooth to a hand-held de
 3. Home Screen - Test (generates current reading), report(generates last 3 readings)
 4. History Screen
 
-
 #### Assumptions about Bluetooth
 - A button is available on home screen 
 - real Bluetooth scanning/ pairing not implemented
 - Random values are generated for testing and reporting
+
+### APK Link
+https://github.com/Ritakshi19/Soil_Health_Monitoring/releases/download/v1.0/app-arm64-v8a-release.apk
 
